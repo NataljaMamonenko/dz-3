@@ -1,0 +1,31 @@
+<Person>
+	<name>Им'я</name>
+	<name>Прізвище</name>
+	<birthday>00.00.0000</birthday>
+	<address>
+		<city>назва</city>
+		<street>назва</street>
+		<bud>11</bud>
+		<apartment>15</apartment>
+	</address>
+	<contacts>
+		<phone>+380670000001</phone>
+		<email>name.@gmail.com</email>
+		<skype>nameskype</skype>
+	</contacts>
+	<education>
+		<university>назва</university>
+		<diploma>назва</diploma>
+	</education>
+	<courses>назва</courses>
+	<certificates>
+		<name>назва</name>
+		<school>назва</school>
+		<date>00.00.0000</date>
+	</certificates>
+	<languages>
+		<language1>українська</language1>
+		<language2>англійська</language2>
+	</languages>
+	<hobby>назва</hobby>
+</Person>		

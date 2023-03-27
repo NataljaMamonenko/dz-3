@@ -1,0 +1,39 @@
+{
+	"Person":
+	{
+		"name": "ім'я",
+		"surname": "прізвище",
+		"birthday": "00.00.0000",
+		"address":
+		{
+			"city": "назва",
+			"street": "назва",
+			"bud": "11",
+			"apartment": "15"
+		},
+		"contacts":
+		{
+			"phone": "+380670000001",
+			"email": "name.@gmail.com",
+			"skype": "nameskype"
+		},
+		"education":
+		{
+			"university": "назва",
+			"diploma": "назва"
+		},
+		"courses": "назва",
+		"certificates":
+		{
+			"name": "назва",
+			"school": "назва",
+			"date": "00.00.0000"
+		},
+		"languages":
+		{
+			"language1": "українська",
+			"language2": "англійська"
+		},
+		"hobby": "назва"
+	}
+}
